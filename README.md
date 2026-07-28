@@ -7,7 +7,7 @@ Construyendo soluciones con código.
 </h3>
 
 <p align="center">
-🎓 Estudiante del Tecnólogo en <strong>Análisis y Desarrollo de Software (ADSO)</strong> - SENA
+🎓 Estudiante del Tecnólogo en <strong>Análisis y Desarrollo de Software (ADSO)</strong> 
 <br>
 🌱 Actualmente fortaleciendo mis conocimientos en <strong>Python</strong> y <strong>Django</strong>
 </p>
@@ -68,22 +68,34 @@ Actualmente continúo fortaleciendo mis conocimientos en **desarrollo web** con 
 </h3>
 
 <p align="center">
-💻 Desarrollo Web &nbsp;&nbsp;•&nbsp;&nbsp; 🐍 Django &nbsp;&nbsp;•&nbsp;&nbsp; 🎨 Frontend Responsive
+💈 Gestión de reservas &nbsp;&nbsp;•&nbsp;&nbsp; 👤 Clientes &nbsp;&nbsp;•&nbsp;&nbsp; 📅 Agenda &nbsp;&nbsp;•&nbsp;&nbsp; ⚙ Administración
 </p>
 
 Aplicación web desarrollada en equipo para gestionar una barbería, permitiendo administrar clientes, reservas, servicios y perfiles de usuario mediante una interfaz moderna, intuitiva y responsive.
 
 ### 🛠️ Tecnologías utilizadas
 
-- Python
-- Django
-- HTML5
-- CSS3
-- JavaScript
-- Bootstrap
-- MySQL
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+</p>
 
 <p align="center">
+
+<br>
 
 <img src="https://img.shields.io/badge/Estado-En%20desarrollo-58A6FF?style=for-the-badge"/>
 
