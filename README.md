@@ -55,26 +55,37 @@ Soy estudiante del Tecnólogo en Análisis y Desarrollo de Software (ADSO) en el
 
 ---
 
-# 🚀 Proyecto Destacado
+## 🌟 Proyecto Principal
 
-### 💈 Sistema Web para Barbería
+### 💈 Barber shop M&A
 
-Aplicación web desarrollada en equipo para la gestión de una barbería, enfocada en la administración de clientes, reservas y servicios.
+Aplicación web desarrollada en equipo para la administración de una barbería. El sistema permite gestionar clientes, reservas, servicios y perfiles de usuario mediante una interfaz moderna y responsive.
 
 **Tecnologías utilizadas**
 
-- HTML
-- CSS
-- JavaScript
-- Bootstrap
+<p>
 
-> 🔗 Aquí más adelante agregaremos el enlace al repositorio cuando terminemos de organizarlo.
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+</p>
+
+> 🔗 Próximamente añadiré el enlace al repositorio y una demostración del proyecto.
 
 ---
 
 # 📊 Estadísticas de GitHub
 
-> *(Las agregaremos cuando el servicio vuelva a estar disponible.)*
+
 
 
 
