@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola! 👋 Soy <strong>Jimena Hernández</strong></h1>
 
 <h3 align="center">
-Desarrolladora de Software en formación
+Construyendo soluciones con código.
 </h3>
 
 <p align="center">
@@ -13,12 +13,23 @@ Desarrolladora de Software en formación
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudiante+de+ADSO;Aprendiendo+Python+y+Django;Construyendo+mi+camino+como+desarrolladora" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Estudiante+de+ADSO;Aprendiendo+Python+y+Django;Construyendo+soluciones+con+código" alt="Typing SVG"/>
 </p>
 
 <hr>
 
-## 💻 Tecnologías
+# 👩‍💻 Sobre mí
+
+Soy estudiante del Tecnólogo en Análisis y Desarrollo de Software (ADSO) en el SENA. Actualmente continúo fortaleciendo mis conocimientos en desarrollo web con Python y Django mientras desarrollo proyectos que me permiten mejorar mis habilidades técnicas.
+
+- 🌱 Actualmente aprendiendo **Python** y **Django**.
+- 💻 Interesada en el **desarrollo Backend** y el **desarrollo web**.
+- 🚀 Disfruto crear proyectos que me permitan seguir aprendiendo y fortalecer mis habilidades como desarrolladora.
+- 📚 Siempre buscando aprender nuevas tecnologías y buenas prácticas de desarrollo.
+
+---
+
+# 🛠️ Tecnologías y Herramientas
 
 <p align="center">
 
@@ -44,13 +55,26 @@ Desarrolladora de Software en formación
 
 ---
 
-## 📊 Estadísticas de GitHub
+# 🚀 Proyecto Destacado
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=jimenher12-jpg&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+### 💈 Sistema Web para Barbería
 
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimenher12-jpg&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-</p>
+Aplicación web desarrollada en equipo para la gestión de una barbería, enfocada en la administración de clientes, reservas y servicios.
+
+**Tecnologías utilizadas**
+
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+
+> 🔗 Aquí más adelante agregaremos el enlace al repositorio cuando terminemos de organizarlo.
+
+---
+
+# 📊 Estadísticas de GitHub
+
+> *(Las agregaremos cuando el servicio vuelva a estar disponible.)*
 
 
 
