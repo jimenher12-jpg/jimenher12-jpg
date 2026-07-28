@@ -18,8 +18,6 @@ Construyendo soluciones con código.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0D1117,100:58A6FF&section=header"/>
 
-<br><br>
-
 ---
 
 <br>
