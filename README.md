@@ -39,7 +39,7 @@ Actualmente continúo fortaleciendo mis conocimientos en **desarrollo web** con 
 
 <br>
 
-## 🛠️ Tecnologías y Herramientas
+## 🛠️ Mi stack como programadora
 
 <p align="center">
 
@@ -52,58 +52,6 @@ Actualmente continúo fortaleciendo mis conocimientos en **desarrollo web** con 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
-</p>
-
-<br>
-
----
-
-<br>
-
-## 🌟 Proyecto Principal
-
-<h3 align="center">
-💈 M&A Barber Shop
-</h3>
-
-<p align="center">
-💈 Gestión de reservas &nbsp;&nbsp;•&nbsp;&nbsp; 👤 Clientes &nbsp;&nbsp;•&nbsp;&nbsp; 📅 Agenda &nbsp;&nbsp;•&nbsp;&nbsp; ⚙ Administración
-</p>
-
-Aplicación web desarrollada en equipo para gestionar una barbería, permitiendo administrar clientes, reservas, servicios y perfiles de usuario mediante una interfaz moderna, intuitiva y responsive.
-
-### 🛠️ Tecnologías utilizadas
-
-<p>
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
-</p>
-
-<p align="center">
-
-<br>
-
-<img src="https://img.shields.io/badge/Estado-En%20desarrollo-58A6FF?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-🚧 El proyecto continúa en desarrollo. Próximamente estará disponible el repositorio público junto con una demostración del sistema.
 
 </p>
 
