@@ -1,84 +1,58 @@
-<h1 align="center">
-  ¡Hola! 👋 Soy <strong>Jimena Hernández</strong>
-</h1>
-
-<h3 align="center">
-Construyendo soluciones con código.
-</h3>
+<!-- BANNER DE ENCABEZADO -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D1117,100:58A6FF&section=header&text=¡Hola!%20Soy%20Jimena%20Hernández&fontSize=38&fontColor=ffffff&fontAlignY=35"/>
 
 <p align="center">
-🎓 Estudiante del Tecnólogo en <strong>Análisis y Desarrollo de Software (ADSO)</strong> 
-<br>
-🌱 Actualmente fortaleciendo mis conocimientos en <strong>Python</strong> y <strong>Django</strong>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Estudiante+de+ADSO+%40+SENA;Backend+Developer+en+formación;Apasionada+por+Python+y+Django;Construyendo+soluciones+con+código" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Estudiante+de+ADSO;Backend+Developer+en+formación;Aprendiendo+Python+y+Django;Construyendo+soluciones+con+código" alt="Typing SVG"/>
+  🎓 Estudiante de <strong>Análisis y Desarrollo de Software (ADSO)</strong>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0D1117,100:58A6FF&section=header"/>
 
 ---
-
-<br>
 
 ## 👩‍💻 Sobre mí
 
-Soy estudiante del Tecnólogo en **Análisis y Desarrollo de Software (ADSO)** en el **SENA**.
+Soy estudiante en el **SENA**, enfocada en el desarrollo de software y apasionada por la lógica detrás del **desarrollo Backend**. 
 
-Actualmente continúo fortaleciendo mis conocimientos en **desarrollo web** con **Python** y **Django**, desarrollando proyectos que me permiten adquirir experiencia práctica y mejorar continuamente mis habilidades como desarrolladora.
+Me enfoco en convertir ideas en código funcional mediante la creación de aplicaciones web estructuradas, priorizando la mejora continua, el diseño de software modular y la resolución efectiva de problemas.
 
-- 🌱 Actualmente aprendiendo **Python** y **Django**.
-- 💻 Interesada en el **desarrollo Backend** y el **desarrollo Web**.
-- 🚀 Me gusta aprender desarrollando proyectos que representen nuevos retos.
-- ✨ Convencida de que el aprendizaje constante es la mejor herramienta para crecer como desarrolladora.
-
-<br>
+* 💡 **Enfoque actual:** Profundizando en el ecosistema de **Python** y **Django**.
+* 🚀 **Metodología:** Aprendizaje basado en proyectos reales que representen retos técnicos.
+* ✨ **Objetivo:** Seguir fortaleciendo mis habilidades para construir soluciones robustas y escalables.
 
 ---
 
-<br>
-
-## 🛠️ Mi stack como programadora
+## 🛠️ Tecnologías y Herramientas
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,py,django,mysql,sqlite,vscode,git" />
 </p>
 
-<br>
-
 ---
-
-<br>
 
 ## 📊 Estadísticas de GitHub
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jimenher12-jpg?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
-
-<br>
+<p align="center">
+  <a href="https://github.com/jimenher12-jpg">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/jimenher12-jpg?cardType=level&theme=github-dark&fontFamily=FiraCode&preferLogin=false" alt="Jimena's GitHub Stats" />
+  </a>
+</p>
 
 ---
 
-<br>
-
-## 📫 Contacto
+## 📫 ¡Conectemos!
 
 <p align="center">
-
-<a href="https://github.com/jimenher12-jpg">
-<img src="https://img.shields.io/badge/GitHub-jimenher12--jpg-181717?style=for-the-badge&logo=github"/>
-</a>
-
+  <a href="https://github.com/jimenher12-jpg" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <!-- Puedes descomentar y editar esta línea si deseas agregar LinkedIn en el futuro -->
+  <!-- 
+  <a href="TU_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a> 
+  -->
 </p>
 
 
