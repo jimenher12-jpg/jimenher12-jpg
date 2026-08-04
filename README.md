@@ -13,7 +13,7 @@
 
 ## 👩‍💻 Sobre mí
 
-Soy estudiante en el **SENA**, enfocada en el desarrollo de software y apasionada por la lógica detrás del **desarrollo Backend**. 
+Soy estudiante en el **SENA**, enfocada en el desarrollo de software.
 
 Me enfoco en convertir ideas en código funcional mediante la creación de aplicaciones web estructuradas, priorizando la mejora continua, el diseño de software modular y la resolución efectiva de problemas.
 
