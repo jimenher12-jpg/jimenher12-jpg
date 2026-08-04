@@ -63,6 +63,7 @@ Actualmente continúo fortaleciendo mis conocimientos en **desarrollo web** con 
 
 ## 📊 Estadísticas de GitHub
 
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/jimenher12-jpg?cardType=level&theme=github-dark&fontFamily=&preferLogin=false)](https://git.io/awesome-stats-card)
 
 <br>
 
