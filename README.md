@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:0D1117,100:58A6FF&section=header&text=¡Hola!%20Soy%20Jimena%20Hernández&fontSize=38&fontColor=ffffff&fontAlignY=35"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Estudiante+de+ADSO+%40+SENA;Backend+Developer+en+formación;Apasionada+por+Python+y+Django;Construyendo+soluciones+con+código" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=850&lines=Estudiante+de+ADSO;FullStack+Developer+en+formación;Apasionada+por+la+programación;Construyendo+soluciones+con+código" alt="Typing SVG"/>
 </p>
 
 <p align="center">
